@@ -1,8 +1,6 @@
-using System.Runtime.CompilerServices;
-
 namespace Basics.ValueAndReferences
 {
-    public class ValueAndReferences
+    public class ValueAndReferencesTest
     {
         /// <summary>
         /// Basic example of value type

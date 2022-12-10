@@ -1,9 +1,4 @@
-
-.vs/VSWorkspaceState.json
-.vs/things_i_should_remember/v16/.suo
-.vs/ProjectSettings.json
-.vs/slnx.sqlite
-/.vs/things_i_should_remember
-/Basics/.vs
-/Basics/Basics/obj
-/Basics/Basics/bin/Debug/net7.0
+﻿/.vs/*
+/Basics/.vs/Basics
+/Basics/obj
+/Basics/bin/Debug/net7.0
